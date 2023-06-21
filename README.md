@@ -4,7 +4,7 @@
   
   Para rodar o projeto na sua máquina, siga os seguintes passos:
   ```
-  1 -
+  1 - node app.js
   2 - 
   3 - 
   ```
